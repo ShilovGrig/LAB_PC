@@ -1,0 +1,6 @@
+﻿  AbstractClass.cpp
+  Final.cpp
+  TreeBaseClass.cpp
+  Создание кода...
+C:\Users\Home\source\repos\LAB_PC\Final4\TreeBaseClass.h(114): warning C4715: TreeBaseClass::search: значение возвращается не при всех путях выполнения
+  Final4.vcxproj -> C:\Users\Home\source\repos\LAB_PC\x64\Debug\Final4.exe
